@@ -1,11 +1,11 @@
 ---
 
-domain: ofn.handtoearth.nz
+domain: example.com
 rails_env: production
 
-admin_email: gary@handtoearth.nz
+admin_email: admin@example.com
 
-mail_domain: handtoearth.nz
+mail_domain: example.com
 
 # Optional list of subdomains to register in letsencrypt certificate
 # Defaults to {{ domain }} if list is undefined
