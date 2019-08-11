@@ -162,6 +162,7 @@ uk-prod
 [ofn_servers:children]
 local
 au
+nz
 ca
 ie
 in
