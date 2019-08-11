@@ -19,3 +19,4 @@ developer_email: gary@handtoearth.nz
 # Users listed here will have their key from /files/keys added to the unicorn_user
 users_sysadmin:
   - "{{ core_devs }}"
+  - gary
