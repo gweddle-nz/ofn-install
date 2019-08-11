@@ -19,7 +19,7 @@ travis
 # New Zealand
 
 [nz-prod]
-ofn.handtoearth.nz ansible_port=2200
+ofn.handtoearth.nz ansible_host=192.168.4.191 ansible_port=2200
 
 [nz:children]
 nz-prod
