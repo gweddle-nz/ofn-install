@@ -1,0 +1,8 @@
+---
+
+domain: ofn.handtoearth.nz
+rails_env: production
+
+admin_email: gary@handtoearth.nz
+
+mail_domain: handtoearth.nz
