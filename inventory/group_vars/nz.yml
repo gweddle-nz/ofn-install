@@ -14,7 +14,7 @@ timezone: Auckland
 
 
 # Used for the LetsEncrypt email setting
-developer_email: gary@handtoearth.nz
+developer_email: gary@openfoodnetwork.org.nz
 
 # Users listed here will have their key from /files/keys added to the unicorn_user
 users_sysadmin:
